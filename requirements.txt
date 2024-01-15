@@ -4,5 +4,6 @@ pandas
 tensorflow
 scikit-learn
 evidently
-keras
+keras 
 tensorrt
+TensorRT
