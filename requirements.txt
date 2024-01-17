@@ -5,4 +5,3 @@ tensorflow
 scikit-learn
 evidently
 keras 
-tensorrt
